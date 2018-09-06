@@ -10,7 +10,7 @@ int main(){// Looping for making patterns
 		else if(i==2)// print the 3rd row
 		{cout<<"* * *";}
 		else
-		{cout<<"** **";}// print 2nd and 3rd row
+		{cout<<"** **";}// print 2nd and 4th row
 		cout<<endl;}
 	cout<<endl;
 return 0;
